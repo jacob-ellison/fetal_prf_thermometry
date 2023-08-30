@@ -1,4 +1,4 @@
-# fetal thermometry
+# 3T fetal thermometry
 Estimate of Fetal Brain Temperature Using PRF Thermometry during Fetal MRI
 
 This repository contains the code and data used for analysis in the paper.
